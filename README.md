@@ -1,4 +1,4 @@
-#Generative Adversarial Networks to generate dark data.
+##Generative Adversarial Networks to generate dark data.
 
 
 We build a Generative adversarial network with the goal of generating dark data of the 
